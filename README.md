@@ -1,4 +1,4 @@
-# Hey I'm Harsha Vardhan, 
+# Hey I'm `Harsha Vardhan`, 
 `Student 👨‍🎓:`, currently pursuing B.Tech in CSE with specialization in Cloud computing from SRM Institute of Science and Technology. 
 Building real world projects to understand and learn software development.
 <br>
