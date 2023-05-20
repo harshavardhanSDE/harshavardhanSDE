@@ -8,6 +8,9 @@ Building real world projects to understand and learn software development.
 `Cloud computing` | `Web development` | `UI/UX` | `Open Source development` | `Artificial Intelligence` | `Quantum information and Quantum computing` | `Development Operations (Devops)` | `Native & Hybrid mobile applications` | `Extended Reality` | `Game development` | ` Computational Physics`.
 
 find me at: 
-[`Twitter`](https://twitter.com/Harsha_nh_dev)
-[`Linkedin`](https://www.linkedin.com/in/harsha-vardhan-nagarajan-67b492243/)
-[`Stackoverflow`](https://stackoverflow.com/users/19511391/harshavardhansde)
+[`Twitter`](https://twitter.com/Harsha_nh_dev) |
+[`Linkedin`](https://www.linkedin.com/in/harsha-vardhan-nagarajan-67b492243/) |
+[`Stackoverflow`](https://stackoverflow.com/users/19511391/harshavardhansde) |
+[`Portfolio`](https://harshavardhansde.github.io/portfolio) |
+
+
