@@ -7,7 +7,7 @@ Building real world projects to understand and learn software development.
 > `Science without religion is lame, Religion without science is blind` - **Albert Einstein**.
 
 # `Areas of interest`: 
-`Cloud computing` | `Web development` | `UI/UX` | `Open Source development` | `Artificial Intelligence` | `Quantum information and Quantum computing` | `Development Operations (Devops)` | `Native & Hybrid mobile applications` | `Extended Reality` | `Game development` | ` Computational Physics`.
+`Cloud computing` | `Computer Graphics` | `Computer Vision` | 
 
 find me at: 
 [`Twitter`](https://twitter.com/Harsha_nh_dev) |
