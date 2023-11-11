@@ -7,12 +7,11 @@ Building real world projects to understand and learn software development.
 > `Science without religion is lame, Religion without science is blind` - **Albert Einstein**.
 
 # `Areas of interest`: 
-`Cloud computing` | `Computer Graphics` | `Computer Vision` | `Artificial Intelligence` | `Machine learning` |
+`3D Machine Learning` | `Human - computer interaction` | 
 
 find me at: 
 [`Twitter`](https://twitter.com/Harsha_nh_dev) |
 [`Linkedin`](https://www.linkedin.com/in/harsha-vardhan-nagarajan-67b492243/) |
 [`Stackoverflow`](https://stackoverflow.com/users/19511391/harshavardhansde) |
-[`Portfolio`](https://harshavardhansde.github.io/portfolio) |
 
 
