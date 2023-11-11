@@ -7,7 +7,7 @@ Building real world projects to understand and learn software development.
 > `Science without religion is lame, Religion without science is blind` - **Albert Einstein**.
 
 # `Areas of interest`: 
-`3D Machine Learning` | `Human - computer interaction` | 
+`3D Machine Learning` | `Human - computer interaction` | `computer Graphics`
 
 find me at: 
 [`Twitter`](https://twitter.com/Harsha_nh_dev) |
