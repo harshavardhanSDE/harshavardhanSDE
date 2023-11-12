@@ -1,8 +1,6 @@
 # I'm `Harsha Vardhan`, 
 `Student 👨‍🎓` | `Science enthusiast 🧠` | `Life long learner 🛤️`
 
-Currently pursuing B.Tech in CSE with specialization in Cloud computing from SRM Institute of Science and Technology. 
-Building real world projects to understand and learn software development.
 <br>
 > `Science without religion is lame, Religion without science is blind` - **Albert Einstein**.
 
