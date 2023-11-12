@@ -1,7 +1,5 @@
 # I'm `Harsha Vardhan`, 
 `Student 👨‍🎓` | `Science enthusiast 🧠` | `Life long learner 🛤️`
-
-<br>
 > `Science without religion is lame, Religion without science is blind` - **Albert Einstein**.
 
 # `Areas of interest`: 
