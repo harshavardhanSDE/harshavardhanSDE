@@ -3,7 +3,7 @@
 > `Science without religion is lame, Religion without science is blind` - **Albert Einstein**.
 
 # `Areas of interest`: 
-`3D Machine Learning` | `Human - computer interaction` | `computer Graphics` |`Research software engineering`
+`Point cloud Machine Learning` | `Human - computer interaction` | `computer Graphics` |`Research software engineering`
 
 find me at: 
 [`Twitter`](https://twitter.com/Harsha_nh_dev) |
