@@ -1,6 +1,8 @@
 # I'm `Harsha Vardhan`, 
 `Student 👨‍🎓` | `Science enthusiast 🧠` | `Life long learner 🛤️`
-> `Science without religion is lame, Religion without science is blind` - **Albert Einstein**.
+`on my mind`: Interdisciplinary research interests span across various fields involving computational edge. 
+`currently`: Application of Point cloud ( 3D Machine learning ) for Fluid dynamics. And Computer vision.
+`Learning`: Computational Fluid Dynamics, Machine Learning.
 
 # `Areas of interest`: 
 `Point cloud Machine Learning` | `Human - computer interaction` | `computer Graphics` |`Research software engineering`
@@ -10,4 +12,5 @@ find me at:
 [`Linkedin`](https://www.linkedin.com/in/harsha-vardhan-nagarajan-67b492243/) |
 [`Stackoverflow`](https://stackoverflow.com/users/19511391/harshavardhansde) |
 
+> `Science without religion is lame, Religion without science is blind` - **Albert Einstein**.
 
