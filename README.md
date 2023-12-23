@@ -1,3 +1,4 @@
+
 `Student 👨‍🎓` | `Science enthusiast 🧠` | `Life long learner 🛤️` <br>
 `on my mind`: Interdisciplinary research interests spanning across various scientific fields involving computational edge. 
 `currently`: Application of Point cloud ( 3D Machine learning ) for Fluid dynamics. And models for Computer vision.
@@ -13,3 +14,4 @@ find me at:
 
 > `Science without religion is lame, Religion without science is blind` - **Albert Einstein**.
 
+creator at: `The workflow`
