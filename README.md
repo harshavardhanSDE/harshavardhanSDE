@@ -1,7 +1,7 @@
 # I'm `Harsha Vardhan`, 
-`Student 👨‍🎓` | `Science enthusiast 🧠` | `Life long learner 🛤️`
-`on my mind`: Interdisciplinary research interests span across various fields involving computational edge. 
-`currently`: Application of Point cloud ( 3D Machine learning ) for Fluid dynamics. And Computer vision.
+`Student 👨‍🎓` | `Science enthusiast 🧠` | `Life long learner 🛤️` <br>
+`on my mind`: Interdisciplinary research interests spanning across various scientific fields involving computational edge. 
+`currently`: Application of Point cloud ( 3D Machine learning ) for Fluid dynamics. And models for Computer vision.
 `Learning`: Computational Fluid Dynamics, Machine Learning.
 
 # `Areas of interest`: 
