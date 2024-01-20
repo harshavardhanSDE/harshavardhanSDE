@@ -1,8 +1,8 @@
 
 `Student 👨‍🎓` | `Science enthusiast 🧠` | `Life long learner 🛤️` <br>
-`on my mind`: Interdisciplinary research interests spanning across various scientific fields involving computational edge. 
-`currently`: Application of Point cloud ( 3D Machine learning ) for Fluid dynamics. And models for Computer vision.
-`Learning`: Computational Fluid Dynamics, Machine Learning.
+`in my mind`: Interdisciplinary research interests spanning across various scientific fields involving computational edge. 
+`currently`: to develop foundational models in computer vision and 3D machine learning.
+`Learning`: Image processing, Computer vision, Machine Learning.
 
 # `Areas of interest`: 
 `Point cloud Machine Learning` | `Human - computer interaction` | `computer Graphics` |`Research software engineering`
