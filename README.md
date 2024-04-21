@@ -13,5 +13,3 @@ find me at:
 [`Stackoverflow`](https://stackoverflow.com/users/19511391/harshavardhansde) |
 
 > `Science without religion is lame, Religion without science is blind` - **Albert Einstein**.
-
-creator at: `workflow`
