@@ -5,7 +5,7 @@
 `Learning`: Image processing, Computer vision, Machine Learning.
 
 # `Areas of interest`: 
-`Point cloud Machine Learning` | `Human - computer interaction` | `computer Graphics` |`Research software engineering`
+`Cloud Computing` | `Human - computer interaction` | `Machine Learning` |`Spatial Computing`
 
 find me at: 
 [`Twitter`](https://twitter.com/Harsha_nh_dev) |
