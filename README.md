@@ -2,7 +2,7 @@
 `Student 👨‍🎓` | `Science enthusiast 🧠` | `Life long learner 🛤️` <br>
 `in my mind`: Interdisciplinary research interests spanning across various scientific fields involving computational edge. 
 `currently`: to develop foundational models in computer vision and 3D machine learning.
-`Learning`: Image processing, Computer vision, Machine Learning.
+`Learning`: building `[@justtoolslab](https://github.com/just-tools-lab)`
 
 # `Areas of interest`: 
 `Cloud Computing` | `Human - computer interaction` | `Machine Learning` |`Spatial Computing`
