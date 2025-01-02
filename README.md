@@ -1,6 +1,6 @@
 
 `Student 👨‍🎓` | `Science enthusiast 🧠` | `Life long learner 🛤️` <br>
-`in my mind`: Interdisciplinary research interests spanning across various scientific fields involving computational edge. ( fancy way of saying "I'm just interested in computation science" ) <br> 
+`in my mind`: Interdisciplinary research interests spanning across various scientific fields involving computational edge. ( fancy way of saying "I'm just interested in computational science" ) <br> 
 `currently`: building [@justtoolslab](https://github.com/just-tools-lab).<br>
 `Learning`: Software design, code best practices and DSA.
 
